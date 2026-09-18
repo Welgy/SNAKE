@@ -11,6 +11,6 @@
 - Проигрыш при столкновении со стеной/собой
 
 ## Запуск
-g++ main.cpp -o snake
+g++ main.cpp -o snake -lncurses
 
 ./snake
