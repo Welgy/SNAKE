@@ -12,4 +12,5 @@
 
 ## Запуск
 g++ main.cpp -o snake
+
 ./snake
