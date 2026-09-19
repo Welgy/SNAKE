@@ -28,4 +28,5 @@ g++ main.cpp -o snake -lncurses
 ```
 
 ## Скриншот
-![Скриншот](screenshot.png)
+![Скриншот](screen.png)
+![Скриншот](screen2.png)
