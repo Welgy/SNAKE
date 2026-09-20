@@ -29,3 +29,7 @@ g++ main.cpp -o snake -lncurses
 
 ## Скриншот
 ![Скриншот](screen.png)
+
+## Author
+
+[Welgy](https://github.com/Welgy)
